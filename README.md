@@ -1,7 +1,7 @@
 # DS_Portfolio
 Data Science Portfolio
 
-# Project 1: Sentiment Classification of Movie Reviews
+# [Project 1: Sentiment Classification of Movie Reviews](https://github.com/raffaelk/nlp-basics)
 - Created a NLP model for sentiment classification of movie reviews.
 - Compared a lexicon based approached to a discriminative classifier.
 - Built a very simple GUI/API to use the pretrained and saved model in a web browser.
@@ -12,3 +12,14 @@ Data Science Portfolio
 - Visualization: Matplotlib, wordcloud
 - Analysis and Modelling: pandas, scikit-learn, NLTK
 - Deployment: Flask, HTML, Docker
+
+
+# [Project 2: Topic Classification and Analysis of Newspaper Headlines](https://github.com/raffaelk/nlp-basics)
+- NLP analysis of a set of newspaper headlines.
+- Displayed with graphical and statistical tools how the importance of certain topics and words evolved over time.
+- Created a multiclass classification model classify the headlines into distinct topic categories. 
+
+## Main Technologies Used
+- Language: Python 
+- Visualization: Matplotlib, Seaborn
+- Analysis and Modelling: pandas, scikit-learn, NLTK
