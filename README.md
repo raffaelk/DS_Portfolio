@@ -1,5 +1,5 @@
-# DS_Portfolio
-Data Science Portfolio
+# Data Science Portfolio
+A portfolio with some of my data science projects created for academic courses, self-learning and hobby. 
 
 # [Project 1: Sentiment Classification of Movie Reviews](https://github.com/raffaelk/nlp-basics)
 - Created a NLP model for sentiment classification of movie reviews.
