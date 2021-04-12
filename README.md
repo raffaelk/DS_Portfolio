@@ -20,7 +20,7 @@ A portfolio with some of my data science projects created for academic courses, 
 - NLP analysis of a set of newspaper headlines.
 - Performed an extended exploratory data analysis.
 - Displayed with graphical and statistical tools how the importance of certain topics and words evolved over time.
-- Created a multiclass classification model classify the headlines into distinct topic categories. 
+- Created a multiclass classification model to classify the headlines into distinct topic categories. 
 
 ## Main Technologies Used
 - Language: Python 
