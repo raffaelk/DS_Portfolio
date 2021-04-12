@@ -1,6 +1,8 @@
 # Data Science Portfolio
 A portfolio with some of my data science projects created for academic courses, self-learning and hobby. 
 
+**_NOTE:_**  The projects use jupyter notebooks. In case of github having troubles displaying the notebooks just use the [nbviewer](https://nbviewer.jupyter.org/) of jupyter.
+
 # [Project 1: Sentiment Classification of Movie Reviews](https://github.com/raffaelk/nlp-basics/tree/main/sentiment_classification)
 - Created a NLP model for sentiment classification of movie reviews.
 - Compared a lexicon based approached to a discriminative classifier.
