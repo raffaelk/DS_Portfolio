@@ -13,9 +13,12 @@ Data Science Portfolio
 - Analysis and Modelling: pandas, scikit-learn, NLTK
 - Deployment: Flask, HTML, Docker
 
+![](images/movie_wc.png)
+
 
 # [Project 2: Topic Classification and Analysis of Newspaper Headlines](https://github.com/raffaelk/nlp-basics)
 - NLP analysis of a set of newspaper headlines.
+- Performed an extended exploratory data analysis.
 - Displayed with graphical and statistical tools how the importance of certain topics and words evolved over time.
 - Created a multiclass classification model classify the headlines into distinct topic categories. 
 
@@ -23,3 +26,5 @@ Data Science Portfolio
 - Language: Python 
 - Visualization: Matplotlib, Seaborn
 - Analysis and Modelling: pandas, scikit-learn, NLTK
+
+![](/images/headline_dist.jpg)
