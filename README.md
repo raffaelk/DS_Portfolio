@@ -33,6 +33,7 @@ A portfolio with some of my data science projects created for academic courses, 
 - Visualization: Matplotlib, wordcloud
 - Analysis and Modelling: pandas, scikit-learn, NLTK
 - Deployment: Flask, HTML, Docker
+- Set-Up: Bash
 
 ![](images/movie_wc.png)
 
