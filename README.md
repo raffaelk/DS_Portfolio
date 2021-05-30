@@ -62,3 +62,5 @@ A portfolio with some of my data science projects created for academic courses, 
 ## Main Technologies Used
 - Language: Python 
 - ML Pipeline: scikit-learn, PySpark
+
+![](/images/housesbanner.png)
