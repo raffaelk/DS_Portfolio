@@ -52,3 +52,13 @@ A portfolio with some of my data science projects created for academic courses, 
 - Analysis and Modelling: pandas, scikit-learn, NLTK
 
 ![](/images/headline_dist.jpg)
+
+# [Project 4: House Price Prediction with Scikit-Learn and Spark](https://github.com/raffaelk/ames_regression/edit/main/README.md)
+
+## Content
+- Set up a simple machine learning pipeline to predict house prices.
+- Compared the big data framework Apache Spark to scikit-learn.
+
+## Main Technologies Used
+- Language: Python 
+- ML Pipeline: scikit-learn, PySpark
