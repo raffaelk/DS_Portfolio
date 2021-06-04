@@ -53,7 +53,7 @@ A portfolio with some of my data science projects created for academic courses, 
 
 ![](/images/headline_dist.jpg)
 
-# [Project 4: House Price Prediction with Scikit-Learn and Spark](https://github.com/raffaelk/ames_regression/edit/main/README.md)
+# [Project 4: House Price Prediction with Scikit-Learn and Spark](https://github.com/raffaelk/ames_regression)
 
 ## Content
 - Set up a simple machine learning pipeline to predict house prices.
