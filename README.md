@@ -1,7 +1,9 @@
 # Data Science Portfolio
-A portfolio with some of my data science projects created for academic courses, self-learning and hobby. 
+A portfolio with some of my data science projects created for academic courses, self-learning and hobby. For some of my professional data science work please refer to the following links:
+- [Personal profile page at ZHAW](https://www.zhaw.ch/en/about-us/person/kuzn/)
+- [Project poster: "Ecological and economic process optimization in cement production through machine learning"](https://digitalcollection.zhaw.ch/bitstream/11475/26666/3/2023_Bolt-etal_Vigier-Projekt_Datalab-Symposium-Poster.pdf)
 
-**NOTE:**  The projects use jupyter notebooks. In case of github having troubles displaying the notebooks just use the [nbviewer](https://nbviewer.jupyter.org/) of jupyter.
+**NOTE:**  The projects displayed here use jupyter notebooks. In case of github having troubles displaying the notebooks just use the [nbviewer](https://nbviewer.jupyter.org/) of jupyter.
 
 # [Project 1: Time Series Classification with Deep Learning](https://github.com/raffaelk/DL_Timeseries_Classification) 
 
