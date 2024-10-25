@@ -1,6 +1,5 @@
 # Data Science Portfolio
 A portfolio with some of my data science projects created for academic courses, self-learning and hobby. For some of my professional data science work please refer to the following links:
-- [Personal profile page at ZHAW](https://www.zhaw.ch/en/about-us/person/kuzn/)
 - [Project poster: "Ecological and economic process optimization in cement production through machine learning"](https://digitalcollection.zhaw.ch/bitstream/11475/26666/3/2023_Bolt-etal_Vigier-Projekt_Datalab-Symposium-Poster.pdf)
 - [Case study on using Python with OPC DA](https://opcexpert.com/case-studies/rest-api-python-ciments-vigier)
 
